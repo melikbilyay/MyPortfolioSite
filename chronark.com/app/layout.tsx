@@ -18,7 +18,7 @@ export const metadata: Metadata = {
     siteName: "Melik Bilyay",
     images: [
       {
-        url: "https://melikbilyay.site/og.png",
+        url: "https://melikbilyay.site/bg.png",
         width: 1920,
         height: 1080,
       },
@@ -42,7 +42,7 @@ export const metadata: Metadata = {
     card: "summary_large_image",
   },
   icons: {
-    shortcut: "/logo.png",
+    shortcut: "melikbilyay.site/logo.png",
   },
 };
 const inter = Inter({
