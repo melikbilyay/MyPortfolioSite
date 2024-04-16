@@ -15,7 +15,7 @@ export const metadata: Metadata = {
     description:
       "My Portfolio Site",
     url: "https://melikbilyay.site",
-    siteName: "melikbilyay.site",
+    siteName: "Melik Bilyay",
     images: [
       {
         url: "https://melikbilyay.site/og.png",
