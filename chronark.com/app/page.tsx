@@ -11,7 +11,7 @@ export default function Home() {
     return (
         <div
             className="flex flex-col items-center justify-center w-screen h-screen overflow-hidden bg-gradient-to-tl from-black via-zinc-600/20 to-black">
-            <img src="/Me.png" alt="Me" className="my-4"/>
+            <img src="/Me.png" alt="Me" className="my-4 w-32 h-32"/>
             <nav className="my-16 animate-fade-in">
                 <ul className="flex items-center justify-center gap-4">
 
