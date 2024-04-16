@@ -34,7 +34,7 @@ export default function Home() {
             />
             <img src="/Me.png" alt="Me" className="my-4 w-40 h-40"/>
             <h1 className="z-10 text-4xl text-transparent duration-1000 bg-white cursor-default text-edge-outline animate-title font-display sm:text-6xl md:text-9xl whitespace-nowrap bg-clip-text ">
-                Necip Melik Bilyay
+                Melik Bilyay
             </h1>
 
             <div
