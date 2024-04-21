@@ -1,7 +1,6 @@
 import Link from "next/link";
 import React from "react";
 import Particles from "./components/particles";
-
 const navigation = [
     { name: "Projects", href: "/projects" },
     { name: "Contact", href: "/contact" },
@@ -44,8 +43,8 @@ export default function Home() {
                     Someone who develops creative applications and websites.
                 </h2>
                 <a
-                    href="/pdf/NecipMelikBilyay_CV.pdf"
-                    download="NecipMelikBilyay_CV.pdf"
+                    href="/NecipMelikBilyay_CV.pdf"
+                    download
                     className="text-zinc-500 hover:text-zinc-300 focus:outline-none inline-flex items-center mt-2"
                 >
                     <svg
