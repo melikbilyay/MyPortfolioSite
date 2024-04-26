@@ -3,5 +3,13 @@
 import projects__cerrouteMdx from './projects__cerroute.mdx.json' assert { type: 'json' }
 import projects__highstormMdx from './projects__highstorm.mdx.json' assert { type: 'json' }
 import projects__planetfallMdx from './projects__planetfall.mdx.json' assert { type: 'json' }
+import projects__accessMdx from './projects__access.mdx.json' assert { type: 'json' }
+import projects__chronarkComMdx from './projects__chronark.com.mdx.json' assert { type: 'json' }
+import projects__envshareMdx from './projects__envshare.mdx.json' assert { type: 'json' }
+import projects__qstashMdx from './projects__qstash.mdx.json' assert { type: 'json' }
+import projects__upstashReactUiMdx from './projects__upstash-react-ui.mdx.json' assert { type: 'json' }
+import projects__upstashRedisMdx from './projects__upstash-redis.mdx.json' assert { type: 'json' }
+import projects__zodBirdMdx from './projects__zod-bird.mdx.json' assert { type: 'json' }
+import projects__upstashWebAnalyticsMdx from './projects__upstash-web-analytics.mdx.json' assert { type: 'json' }
 
-export const allProjects = [projects__cerrouteMdx, projects__highstormMdx, projects__planetfallMdx]
+export const allProjects = [projects__cerrouteMdx, projects__highstormMdx, projects__planetfallMdx, projects__accessMdx, projects__chronarkComMdx, projects__envshareMdx, projects__qstashMdx, projects__upstashReactUiMdx, projects__upstashRedisMdx, projects__zodBirdMdx, projects__upstashWebAnalyticsMdx]
