@@ -41,9 +41,7 @@ export const metadata: Metadata = {
     title: "Melik Bilyay",
     card: "summary_large_image",
   },
-  icons: {
-    shortcut: "/logo.png",
-  },
+
 };
 const inter = Inter({
   subsets: ["latin"],
